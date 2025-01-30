@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates the risk of integer overflow.  The program attempts to assign a value beyond the maximum limit for an integer data type.  This can lead to unexpected and potentially harmful outcomes. The solution showcases how to prevent and detect integer overflows.
